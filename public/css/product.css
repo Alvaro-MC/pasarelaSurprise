@@ -1,0 +1,15 @@
+.row-item-product {
+    align-items: center;
+    border-bottom: 1px solid #814b97;
+    border-left: 0;
+    border-right: 0;
+    padding: 7px 0;
+}
+
+.par-item-product {
+    margin-bottom: 0;
+}
+
+.icon-delete-product {
+    color: #ffff;
+}

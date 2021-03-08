@@ -1,0 +1,99 @@
+.heightFullScreen {
+    height: 91vh !important;
+}
+
+.heightFull {
+    height: 100% !important;
+}
+
+.height-inherit {
+    height: inherit !important;
+}
+
+.progre {
+    height: 10px;
+    border: 2px solid #fff;
+    background-color: green !important;
+    border-radius: 20px;
+}
+
+.item-menue {
+    border-radius: 0 !important;
+    color: #989898;
+    background-color: #0e1318;
+}
+
+.nav-pills .nav-link.active {
+    color: #fff !important;
+    background-color: #283139 !important;
+}
+
+.back-menue {
+    background-color: #0f141a;
+    min-width: 110px;
+}
+
+.content-desp {
+    width: 100%;
+    height: 100%;
+    min-width: 170px;
+    background-color: #283238;
+}
+
+.plant {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-wrap {
+    max-width: 60px !important;
+}
+
+.img-wrap-hori {
+    max-width: 130px !important;
+}
+
+.style-morado {
+    background-color: #7b2992 !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+}
+
+.style-morado i {
+    vertical-align: sub;
+}
+
+.cont-first {
+    height: 76% !important;
+    min-width: 460px !important;
+}
+
+.mw-4 {
+    min-width: 306px;
+}
+
+.wrap-none {
+    flex-wrap: nowrap !important;
+}
+
+.content-video {
+    background-color: #ffffff82;
+    border-radius: 50px;
+}
+
+#v3 {
+    height: 100%;
+}
+
+#videoEditable {
+    position: relative;
+    display: inline-block;
+}
+
+.editableContent {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
